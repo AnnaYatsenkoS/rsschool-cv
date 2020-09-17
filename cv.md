@@ -6,7 +6,7 @@
 email: anika171092@gmail.com 
 phone: +7 927 90 87 006 
 skype: anika171092
-[_GitHub_]_(https://github.com/AnnaYatsenkoS)_: AnnaYatsenkoS
+[GitHub](https://github.com/AnnaYatsenkoS): AnnaYatsenkoS
 ```
 
 **Goals:**
